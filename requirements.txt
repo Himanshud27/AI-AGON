@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy==1.26.4
+paddleocr
+paddlepaddle
+tensorflow
+h5py
+regex
